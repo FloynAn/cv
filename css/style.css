@@ -1,0 +1,6 @@
+.hobbies {
+    border-radius: 5px;
+}
+.hobbies__list__item {
+    list-style:disc;
+}
